@@ -1,4 +1,4 @@
-### Hi there 👋 My name Hikmet Şamil Karaş. I am a freshman at Bilkent University.
+### Hi there 👋 My name Hikmet Şamil Karaş. I am a student at Bilkent University.
 
 <!--
 **HikmetSamilKaras/HikmetSamilKaras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
